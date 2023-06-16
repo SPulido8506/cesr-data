@@ -1,0 +1,22 @@
+{
+  "ids": {
+    "Usuario": 9,
+    "Agenda": 4,
+    "Empleado": 5
+  },
+  "models": {
+    "Usuario": {
+      "1": "{\"user\":\"ayoros\",\"tipo\":\"administrador\",\"id_usuario\":1}",
+      "8": "{\"user\":\"Isra \",\"tipo\":\"RH \",\"id_usuario\":8}"
+    },
+    "Agenda": {
+      "2": "{\"nombre\":\"José Luis \",\"area\":\"Destajo\",\"telefono\":\"351 512 3772 \",\"id_agenda\":2}",
+      "3": "{\"nombre\":\"Juan\",\"area\":\"Ventas\",\"telefono\":\"5678914567\",\"id_agenda\":3}"
+    },
+    "Empleado": {
+      "1": "{\"nombre\":\"Daniel\",\"telefono\":\"3514852369\",\"puesto\":\"jefe\",\"area\":2,\"id_empleado\":1}",
+      "3": "{\"nombre\":\"Agh\",\"telefono\":\"675\",\"puesto\":\"Aux\",\"area\":1,\"id_empleado\":3}",
+      "4": "{\"nombre\":\"Add\",\"telefono\":\"6\",\"puesto\":\"Gh\",\"area\":3,\"id_empleado\":4}"
+    }
+  }
+}
